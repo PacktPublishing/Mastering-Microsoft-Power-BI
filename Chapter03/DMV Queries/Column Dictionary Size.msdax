@@ -1,0 +1,8 @@
+SELECT 
+	[Attribute_Name] as [Column]
+,	[Dimension_Name] as [Table]
+,	[Dictionary_Size]
+FROM 
+$SYSTEM.DISCOVER_STORAGE_TABLE_COLUMNS
+WHERE [COLUMN_TYPE] = 'Basic_Data'
+ORDER BY [Dictionary_Size] DESC

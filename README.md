@@ -36,10 +36,10 @@ mode dataset, an Excel workbook stored the sales plan data. For the DirectQuery 
 the sales plan data was stored in the sample SQL Server database.
 The AdventureWorksDW2016CTP3 sample database can be downloaded
 from the following URL:
-https://www. microsoft. com/en-us/download/details. aspx?id=49502.
+https://www.microsoft.com/en-us/download/details.aspx?id=49502.
 Editions of SQL Server 2017 are available for download from the following
 URL:
-https://www. microsoft. com/en-us/sql-server/sql-server-downloads.
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads.
 The Power BI Desktop files and specific queries and scripts utilized in the book are included
 in the code bundle. However, the source data and database are not included in the code
 bundle. Additionally, the database used by the book contains objects not included in the

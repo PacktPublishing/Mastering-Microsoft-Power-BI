@@ -48,6 +48,10 @@ Therefore, even with access to a SQL Server 2017 database engine instance and th
 AdventureWorks data warehouse database, the examples in the book cannot be completely
 reproduced.
 
+## Errata
+
+* The link for the AdventureWorks database mentioned in the Preface is dead as the resource has been moved to a new location. The database can now be downloaded from this link: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2016.bak
+
 ## Related Products
 * [Microsoft Power BI Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788290142)
 
